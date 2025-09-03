@@ -1,0 +1,11 @@
+{
+  "metric": "MAE",
+  "mae": 28.120139654156105,
+  "baselines": {
+    "linear_regression_mae": 58.91943184634052
+  },
+  "n_train": 13884,
+  "n_valid": 3471,
+  "seed": 42,
+  "generated_at": "2025-09-01T10:59:14.605541Z"
+}
